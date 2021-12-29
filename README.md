@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arvind0302.
 - 👀 I’m interested in Web developmennt.
-- 🌱 I’m currently learning some frontend frameworks.
-- 💞️ I’m looking to collaborate on some frontend projects.
+- 🌱 I’m currently learning a lot of stuff.
+- 💞️ I’m looking to collaborate on some open source projects.
 - 📫 For contacting me : My emailid: arvind.yadav.mec20@itbhu.ac.in
 
 <!---
