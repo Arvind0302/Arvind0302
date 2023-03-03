@@ -7,7 +7,7 @@
  	user = 'Arvind Yadav'
 		currently_learning = 'WEB 3.0'
 		hobbies = [
-				'Photograohy',
+				'Gaming',
 				'Watching Sci-Fi Movies and shows',
 				'Sleeping'
 			]
